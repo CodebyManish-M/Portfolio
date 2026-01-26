@@ -449,7 +449,7 @@ SOFTWARE.
 ### Connect on Social Media
 
 - **LinkedIn**: [Manish Mahato](https://www.linkedin.com/in/manish-mahato-6bb07029a/)
-- **GitHub**: [CodebyManish-M](https://github.com/CodebyManish-M)
+- **GitHub**: [CodebyManish-M](https://github.com/CodebyManish-Mahato)
 - **Twitter**: [@ManishMahat0](https://x.com/ManishMahat0)
 - **Instagram**: [@hy._.manish](https://www.instagram.com/hy._.manish/)
 
